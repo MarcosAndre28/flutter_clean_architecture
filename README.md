@@ -1,4 +1,3 @@
-
 # Clean Architecture Flutter
 
 Este é um aplicativo Flutter que segue os princípios da Clean Architecture. Ele oferece uma separação clara de responsabilidades entre as camadas de apresentação, lógica de negócios e acesso a dados. O projeto utiliza várias bibliotecas para melhorar o gerenciamento de estado, comparação de objetos, injeção de dependência, formatação de datas, manipulação de banco de dados, solicitações de API, hooks, cache de imagens e suporte a ícones.
@@ -34,3 +33,5 @@ O projeto segue os princípios da Clean Architecture e possui os seguintes diret
 - **main.dart**: Ponto de entrada do aplicativo.
 
 Sinta-se à vontade para explorar o código do projeto e fazer quaisquer modificações necessárias para atender aos seus requisitos específicos.
+
+![Flutter Clean](https://github.com/MarcosAndre28/flutter_clean_architecture/assets/34040590/38867d93-f843-406c-a816-fd4b7fb8c541)
